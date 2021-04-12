@@ -1,7 +1,9 @@
 # Recruitment-imitation-mechanism-for-evolutionary-reinforcement-learning
 code for Recruitment-imitation mechanism for evolutionary reinforcement learning
 
-To run the code: python main.py --env_name ENV_NAME --seed SEED --n_experiments N_EXP --e_fraction E_FRAC --num_evals NUM_EVALS --max_frame MAX_FRAME
+To run the code: 
+
+python main.py --env_name ENV_NAME --seed SEED --n_experiments N_EXP --e_fraction E_FRAC --num_evals NUM_EVALS --max_frame MAX_FRAME
 
 for example: 
 
